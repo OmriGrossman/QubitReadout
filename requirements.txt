@@ -1,0 +1,6 @@
+numpy
+matplotlib
+laboneq
+argparse
+pytest
+tqdm
